@@ -1,0 +1,55 @@
+body{
+    font-family: cursive;
+    font-size:2rem;
+}
+
+a {
+    text-decoration:none;
+    target:_blank;
+    
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  
+  hr {
+    width: 100%; /* set the desired width of the line */
+    height: 5px; /* set the height of the line */
+    background-color: black; /* set the color of the line */
+  }
+  
+  .html-css-javascript{
+     width: 100%;  
+    max-width:600px; 
+  }
+
+  .css{
+    width: 100%;  
+    max-width:600px;
+  }
+
+  .javascript{
+    width: 100%;  
+    max-width:600px;
+  }
+
+  .copyrights{
+    text-align: center;
+  }
