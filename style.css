@@ -31,7 +31,7 @@ a:link {
   
   hr {
     width: 100%; /* set the desired width of the line */
-    height: 5px; /* set the height of the line */
+    height: 2px; /* set the height of the line */
     background-color: black; /* set the color of the line */
   }
   
